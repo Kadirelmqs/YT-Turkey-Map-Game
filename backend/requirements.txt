@@ -1,0 +1,6 @@
+﻿fastapi==0.104.1
+uvicorn==0.24.0
+python-socketio==5.10.0
+requests
+pytchat==0.5.5
+TikTokLive==6.6.5
